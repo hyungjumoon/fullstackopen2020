@@ -1,4 +1,4 @@
-# FULL STAck 2020 
+# FULL STACK 2020 
 
 ## My submissions
 
