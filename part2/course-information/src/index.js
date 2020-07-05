@@ -50,7 +50,7 @@ const App = () => {
 
   return (
     <div>
-      <Course courses={courses} />
+      <Course courses ={courses} />
     </div>
   )
 }
